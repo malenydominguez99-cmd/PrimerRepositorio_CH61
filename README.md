@@ -1,18 +1,18 @@
-# \#PrimerRepositorio\_CH61
+# \# PrimerRepositorio\_CH61
 
-\##Primer Repositorio de prueba para Gib
-
-
+\## Primer Repositorio de prueba para Gib
 
 
 
-Este repositorio es para probar el \*\*flujo local\*\* y \*\*remoto\*\* con el comando git
+
+
+Este repositorio es para probar el \*\***flujo local**\*\* y \*\***remoto**\*\* con el comando git
 
 
 
 1. `git status`
 
-2\. `git add´
+2\. `git add .`
 
 3\. `git commit -m "mensaje"`
 
@@ -20,7 +20,7 @@ Este repositorio es para probar el \*\*flujo local\*\* y \*\*remoto\*\* con el c
 
 
 
-
+---
 
 
 
